@@ -1,0 +1,19 @@
+{
+  "name": "gdbypass-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for bypass google drive ( using api gdbypass )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gdbypass",
+    "bot"
+  ],
+  "author": "nekoding",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "telegraf": "^3.38.0"
+  }
+}
