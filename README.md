@@ -5,3 +5,9 @@ This is simple bot for bypassing limited google drive via telegram. this bot usi
 ```bash
 node index.js
 ```
+
+# Screenshoot
+![Bot start](images/bot-start.png "Bot Start")
+![Bot help](images/bot-help.png "Bot Help")
+![Bot respon](images/bot-respon.png "Bot Respon")
+![Bot respon](images/bot-respon-2.png "Bot Respon")
